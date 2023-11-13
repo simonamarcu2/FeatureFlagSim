@@ -1,0 +1,22 @@
+{
+  "name": "ffs",
+  "version": "1.0.0",
+  "description": "FeatureFlag npm pkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "test sim-npm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simonamarcu2/FeatureFlagSim.git"
+  },
+  "keywords": [
+    "supersimy"
+  ],
+  "author": "Simona Marcu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simonamarcu2/FeatureFlagSim/issues"
+  },
+  "homepage": "https://github.com/simonamarcu2/FeatureFlagSim#readme"
+}
